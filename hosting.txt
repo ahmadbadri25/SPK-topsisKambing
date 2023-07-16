@@ -1,0 +1,4 @@
+DBnama		:id21034069_aqiqah
+pengguna	:id21034069_aqiqah
+DBpassword 	: Admin123@@
+
